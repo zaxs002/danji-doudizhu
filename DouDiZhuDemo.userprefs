@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\model\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controller\CardController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\model\Player.cs" Line="223" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="H:\Code\DouDiZhuDemo\Assets\Scripts\Controller\CardController.cs" line="693" column="1" />
+      <Breakpoint enabled="false" file="H:\Code\DouDiZhuDemo\Assets\Scripts\model\Player.cs" line="273" column="1" />
+      <Breakpoint enabled="false" file="H:\Code\DouDiZhuDemo\Assets\Scripts\model\Player.cs" line="196" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

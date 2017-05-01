@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 6a1d1e87ed2440046b2af88ce39e408e
+timeCreated: 1491561242
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HLDDZ_MainGame1_2x_0
+    21300002: HLDDZ_MainGame1_2x_1
+    21300004: HLDDZ_MainGame1_2x_2
+    21300006: HLDDZ_MainGame1_2x_3
+    21300008: HLDDZ_MainGame1_2x_5
+    21300010: HLDDZ_MainGame1_2x_6
+    21300012: HLDDZ_MainGame1_2x_7
+    21300014: HLDDZ_MainGame1_2x_8
+    21300016: HLDDZ_MainGame1_2x_9
+    21300018: HLDDZ_MainGame1_2x_10
+    21300020: HLDDZ_MainGame1_2x_11
+    21300022: HLDDZ_MainGame1_2x_12
+    21300024: HLDDZ_MainGame1_2x_13
+    21300026: HLDDZ_MainGame1_2x_14
+    21300028: HLDDZ_MainGame1_2x_15
+    21300030: HLDDZ_MainGame1_2x_16
+    21300032: HLDDZ_MainGame1_2x_17
+    21300034: HLDDZ_MainGame1_2x_18
+    21300036: HLDDZ_MainGame1_2x_19
+    21300038: HLDDZ_MainGame1_2x_20
+    21300040: HLDDZ_MainGame1_2x_21
+    21300042: HLDDZ_MainGame1_2x_22
+    21300044: HLDDZ_MainGame1_2x_23
+    21300046: HLDDZ_MainGame1_2x_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 960
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 512
+        width: 140
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 532
+        width: 184
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 532
+        width: 229
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 532
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 301
+        width: 160
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 204
+        width: 122
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 204
+        width: 118
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 203
+        width: 118
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 204
+        width: 122
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 204
+        width: 128
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 402
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 404
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 82
+        width: 166
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 204
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 110
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 100
+        width: 455
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 140
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_20
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 172
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 121
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 66
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 66
+        width: 138
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_MainGame1_2x_24
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 40
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

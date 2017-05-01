@@ -1,0 +1,3621 @@
+fileFormatVersion: 2
+guid: 8e006a5cfccd36d409e42f81dd975e98
+timeCreated: 1490868666
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CardAssets_0
+    21300002: CardAssets_1
+    21300004: CardAssets_2
+    21300006: CardAssets_3
+    21300008: CardAssets_4
+    21300010: CardAssets_5
+    21300012: CardAssets_6
+    21300014: CardAssets_7
+    21300016: CardAssets_8
+    21300018: CardAssets_9
+    21300020: CardAssets_10
+    21300022: CardAssets_11
+    21300024: CardAssets_12
+    21300026: CardAssets_13
+    21300028: CardAssets_14
+    21300030: CardAssets_15
+    21300032: CardAssets_16
+    21300034: CardAssets_17
+    21300036: CardAssets_18
+    21300038: CardAssets_19
+    21300040: CardAssets_20
+    21300042: CardAssets_21
+    21300044: CardAssets_22
+    21300046: CardAssets_23
+    21300048: CardAssets_24
+    21300050: CardAssets_25
+    21300052: CardAssets_26
+    21300054: CardAssets_27
+    21300056: CardAssets_28
+    21300058: CardAssets_29
+    21300060: CardAssets_30
+    21300062: CardAssets_31
+    21300064: CardAssets_32
+    21300066: CardAssets_33
+    21300068: CardAssets_34
+    21300070: CardAssets_35
+    21300072: CardAssets_36
+    21300074: CardAssets_37
+    21300076: CardAssets_38
+    21300078: CardAssets_39
+    21300080: CardAssets_40
+    21300082: CardAssets_41
+    21300084: CardAssets_42
+    21300086: CardAssets_43
+    21300088: CardAssets_44
+    21300090: CardAssets_45
+    21300092: CardAssets_46
+    21300094: CardAssets_47
+    21300096: CardAssets_48
+    21300098: CardAssets_49
+    21300100: CardAssets_50
+    21300102: CardAssets_51
+    21300104: CardAssets_52
+    21300106: CardAssets_53
+    21300108: CardAssets_54
+    21300110: CardAssets_55
+    21300112: CardAssets_56
+    21300114: CardAssets_57
+    21300116: CardAssets_58
+    21300118: CardAssets_59
+    21300120: CardAssets_60
+    21300122: CardAssets_61
+    21300124: CardAssets_62
+    21300126: CardAssets_63
+    21300128: CardAssets_64
+    21300130: CardAssets_65
+    21300132: CardAssets_66
+    21300134: CardAssets_67
+    21300136: CardAssets_68
+    21300138: CardAssets_69
+    21300140: CardAssets_70
+    21300142: CardAssets_71
+    21300144: CardAssets_72
+    21300146: CardAssets_73
+    21300148: CardAssets_74
+    21300150: CardAssets_75
+    21300152: CardAssets_76
+    21300154: CardAssets_77
+    21300156: CardAssets_78
+    21300158: CardAssets_79
+    21300160: CardAssets_80
+    21300162: CardAssets_81
+    21300164: CardAssets_82
+    21300166: CardAssets_83
+    21300168: CardAssets_84
+    21300170: CardAssets_85
+    21300172: CardAssets_86
+    21300174: CardAssets_87
+    21300176: CardAssets_88
+    21300178: CardAssets_89
+    21300180: CardAssets_90
+    21300182: CardAssets_91
+    21300184: CardAssets_92
+    21300186: CardAssets_93
+    21300188: CardAssets_94
+    21300190: CardAssets_95
+    21300192: CardAssets_96
+    21300194: CardAssets_97
+    21300196: CardAssets_98
+    21300198: CardAssets_99
+    21300200: CardAssets_100
+    21300202: CardAssets_101
+    21300204: CardAssets_102
+    21300206: CardAssets_103
+    21300208: CardAssets_104
+    21300210: CardAssets_105
+    21300212: CardAssets_106
+    21300214: CardAssets_107
+    21300216: CardAssets_108
+    21300218: CardAssets_109
+    21300220: CardAssets_110
+    21300222: CardAssets_111
+    21300224: CardAssets_112
+    21300226: CardAssets_113
+    21300228: CardAssets_114
+    21300230: CardAssets_115
+    21300232: CardAssets_116
+    21300234: CardAssets_117
+    21300236: CardAssets_118
+    21300238: CardAssets_119
+    21300240: CardAssets_120
+    21300242: CardAssets_121
+    21300244: CardAssets_122
+    21300246: CardAssets_123
+    21300248: CardAssets_124
+    21300250: CardAssets_125
+    21300252: CardAssets_126
+    21300254: CardAssets_127
+    21300256: CardAssets_128
+    21300258: CardAssets_129
+    21300260: CardAssets_130
+    21300262: CardAssets_131
+    21300264: CardAssets_132
+    21300266: CardAssets_133
+    21300268: CardAssets_134
+    21300270: CardAssets_135
+    21300272: CardAssets_136
+    21300274: CardAssets_137
+    21300276: CardAssets_138
+    21300278: CardAssets_139
+    21300280: CardAssets_140
+    21300282: CardAssets_141
+    21300284: CardAssets_142
+    21300286: CardAssets_143
+    21300288: CardAssets_144
+    21300290: CardAssets_145
+    21300292: CardAssets_146
+    21300294: CardAssets_147
+    21300296: CardAssets_148
+    21300298: CardAssets_149
+    21300300: CardAssets_150
+    21300302: CardAssets_151
+    21300304: CardAssets_152
+    21300306: CardAssets_153
+    21300308: CardAssets_154
+    21300310: CardAssets_155
+    21300312: CardAssets_156
+    21300314: CardAssets_157
+    21300316: CardAssets_160
+    21300318: CardAssets_161
+    21300320: CardAssets_162
+    21300322: CardAssets_163
+    21300324: CardAssets_164
+    21300326: CardAssets_165
+    21300328: CardAssets_166
+    21300330: CardAssets_167
+    21300332: CardAssets_168
+    21300334: CardAssets_169
+    21300336: CardAssets_170
+    21300338: CardAssets_171
+    21300340: CardAssets_172
+    21300342: CardAssets_173
+    21300344: CardAssets_174
+    21300346: CardAssets_175
+    21300348: CardAssets_178
+    21300350: CardAssets_181
+    21300352: CardAssets_182
+    21300354: CardAssets_183
+    21300356: CardAssets_184
+    21300358: CardAssets_185
+    21300360: CardAssets_186
+    21300362: CardAssets_187
+    21300364: CardAssets_188
+    21300366: CardAssets_189
+    21300368: CardAssets_190
+    21300370: CardAssets_191
+    21300372: CardAssets_192
+    21300374: CardAssets_193
+    21300376: CardAssets_194
+    21300378: CardAssets_195
+    21300380: CardAssets_197
+    21300382: CardAssets_200
+    21300384: CardAssets_201
+    21300386: CardAssets_202
+    21300388: CardAssets_203
+    21300390: CardAssets_204
+    21300392: CardAssets_205
+    21300394: CardAssets_206
+    21300396: CardAssets_208
+    21300398: CardAssets_209
+    21300400: CardAssets_210
+    21300402: CardAssets_213
+    21300404: CardAssets_214
+    21300406: CardAssets_219
+    21300408: CardAssets_220
+    21300410: CardAssets_223
+    21300412: CardAssets_224
+    21300414: CardAssets_225
+    21300416: CardAssets_226
+    21300418: CardAssets_227
+    21300420: CardAssets_228
+    21300422: CardAssets_229
+    21300424: CardAssets_230
+    21300426: CardAssets_231
+    21300428: CardAssets_232
+    21300430: CardAssets_233
+    21300432: CardAssets_234
+    21300434: CardAssets_235
+    21300436: CardAssets_236
+    21300438: CardAssets_237
+    21300440: CardAssets_238
+    21300442: CardAssets_239
+    21300444: CardAssets_240
+    21300446: CardAssets_241
+    21300448: CardAssets_242
+    21300450: CardAssets_243
+    21300452: CardAssets_244
+    21300454: CardAssets_245
+    21300456: CardAssets_248
+    21300458: CardAssets_249
+    21300460: CardAssets_252
+    21300462: CardAssets_253
+    21300464: CardAssets_254
+    21300466: CardAssets_255
+    21300468: CardAssets_158
+    21300470: CardAssets_159
+    21300472: CardAssets_176
+    21300474: CardAssets_177
+    21300476: CardAssets_179
+    21300478: CardAssets_180
+    21300480: CardAssets_196
+    21300482: CardAssets_198
+    21300484: CardAssets_199
+    21300486: CardAssets_207
+    21300488: CardAssets_211
+    21300490: CardAssets_212
+    21300492: CardAssets_215
+    21300494: CardAssets_216
+    21300496: CardAssets_217
+    21300498: CardAssets_218
+    21300500: CardAssets_221
+    21300502: CardAssets_222
+    21300504: CardAssets_246
+    21300506: CardAssets_247
+    21300508: CardAssets_250
+    21300510: CardAssets_251
+    21300512: CardAssets_256
+    21300514: CardAssets_257
+    21300516: CardAssets_258
+    21300518: CardAssets_259
+    21300520: CardAssets_260
+    21300522: CardAssets_261
+    21300524: CardAssets_262
+    21300526: CardAssets_263
+    21300528: CardAssets_264
+    21300530: CardAssets_265
+    21300532: CardAssets_266
+    21300534: CardAssets_267
+    21300536: CardAssets_268
+    21300538: CardAssets_269
+    21300540: CardAssets_270
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CardAssets_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 984
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 984
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 984
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 984
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 984
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 984
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 984
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 984
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 984
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 984
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 984
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 983
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 984
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_13
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 968
+        width: 178
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 968
+        width: 186
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_15
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 978
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 916
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_17
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 979
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 942
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 942
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 942
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 942
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 942
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 942
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 942
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 942
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 942
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 942
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 942
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 941
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 942
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 920
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 920
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_33
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 920
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 920
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_35
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 920
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_36
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 920
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_37
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 920
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_38
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 920
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_39
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 920
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_40
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 920
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_41
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 916
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_42
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 924
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 899
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 899
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 899
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 899
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 899
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 899
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 899
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 899
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_51
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 899
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_52
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 899
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 899
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_54
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 898
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_55
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 899
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_56
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 875
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 875
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_58
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 875
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_59
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 875
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_60
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 875
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_61
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 875
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_62
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 875
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_63
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 875
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_64
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 875
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_65
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 875
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 880
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_67
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 898
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_68
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 898
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_69
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 898
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_70
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 898
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 733
+        width: 126
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 872
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_73
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_75
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 872
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_76
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_79
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_80
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 872
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_83
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 872
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_84
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 871
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_85
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 872
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_86
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 880
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_87
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 880
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_88
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 880
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_89
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 879
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_90
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 842
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_93
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 842
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_94
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_95
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_96
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_98
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 842
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_101
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 842
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_102
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 841
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_103
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 842
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_104
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 822
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_105
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 822
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_106
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 822
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_107
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 822
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_108
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 822
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_109
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 822
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_110
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 822
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_111
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 822
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_112
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 822
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_113
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 822
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_114
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 782
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_115
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 837
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 810
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_118
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_119
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 810
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_120
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_121
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_122
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_123
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_124
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 810
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_127
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 810
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_128
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 809
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_129
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 810
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_130
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 788
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_131
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 750
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 781
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_133
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 781
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_134
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 781
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_135
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 781
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_136
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 743
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_137
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 744
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_138
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 775
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_139
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 775
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_140
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 775
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_141
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 775
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_142
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 775
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_143
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 775
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_144
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 775
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 775
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_146
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 775
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_147
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 775
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_148
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 762
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 762
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_150
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 762
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_151
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 762
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_152
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 758
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_153
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 751
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_154
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 714
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_155
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 714
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_156
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 714
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_157
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 714
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_158
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 714
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_159
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 715
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_160
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 714
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_161
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 714
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_162
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 716
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_163
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 653
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_164
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 657
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_166
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 656
+        width: 14
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_167
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 667
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_168
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 674
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_169
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 674
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_170
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 674
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_171
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 673
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_172
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 650
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 657
+        width: 14
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_175
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 659
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_176
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 658
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_177
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 658
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_178
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 658
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_179
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 658
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_180
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 658
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_181
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 658
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_182
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 658
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 605
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_186
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 605
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_187
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 606
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_190
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 568
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_191
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 606
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 564
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_193
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 579
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_194
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 602
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_195
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 602
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_196
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 602
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_197
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 602
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_198
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 602
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_199
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 602
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_200
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 602
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_201
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 602
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_202
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 603
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_203
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 618
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_206
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 430
+        width: 18
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_209
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 511
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_210
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 530
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_211
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 497
+        width: 502
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_212
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 505
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_213
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 506
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_214
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 535
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_215
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 546
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_216
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 546
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_217
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 433
+        width: 18
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_218
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 433
+        width: 18
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_219
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 512
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_220
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 512
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_223
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 462
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_224
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 452
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_227
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 453
+        width: 163
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_230
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 297
+        width: 126
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_231
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 420
+        width: 329
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_234
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 316
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_235
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 316
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_236
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 384
+        width: 245
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_237
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 406
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_239
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 325
+        width: 120
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_240
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 363
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_241
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 339
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_242
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 334
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_243
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 331
+        width: 278
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_244
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_245
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 307
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_246
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 294
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_247
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 294
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_248
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 293
+        width: 99
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_249
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 295
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_250
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 271
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_251
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 254
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 468
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_253
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 250
+        width: 363
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_254
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 189
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_255
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 199
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_256
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 199
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_257
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 199
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_258
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 190
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_259
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 190
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_260
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 192
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_261
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 190
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_262
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 127
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_263
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 197
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 468
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_265
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 184
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_266
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 184
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_267
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 30
+        width: 217
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_268
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 30
+        width: 217
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_269
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 58
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAssets_270
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 21
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

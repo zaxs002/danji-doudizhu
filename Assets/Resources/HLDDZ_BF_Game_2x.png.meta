@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 01dae3dd7d19a9c4189ad67a6cd47bf2
+timeCreated: 1491045786
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HLDDZ_BF_Game_2x_0
+    21300002: HLDDZ_BF_Game_2x_1
+    21300004: HLDDZ_BF_Game_2x_2
+    21300006: HLDDZ_BF_Game_2x_3
+    21300008: HLDDZ_BF_Game_2x_4
+    21300010: HLDDZ_BF_Game_2x_5
+    21300012: HLDDZ_BF_Game_2x_6
+    21300014: HLDDZ_BF_Game_2x_7
+    21300016: HLDDZ_BF_Game_2x_8
+    21300018: HLDDZ_BF_Game_2x_9
+    21300020: HLDDZ_BF_Game_2x_10
+    21300022: HLDDZ_BF_Game_2x_11
+    21300024: HLDDZ_BF_Game_2x_12
+    21300026: HLDDZ_BF_Game_2x_13
+    21300028: HLDDZ_BF_Game_2x_14
+    21300030: HLDDZ_BF_Game_2x_16
+    21300032: HLDDZ_BF_Game_2x_18
+    21300034: HLDDZ_BF_Game_2x_19
+    21300036: HLDDZ_BF_Game_2x_21
+    21300038: HLDDZ_BF_Game_2x_23
+    21300040: HLDDZ_BF_Game_2x_24
+    21300042: HLDDZ_BF_Game_2x_25
+    21300044: HLDDZ_BF_Game_2x_26
+    21300046: HLDDZ_BF_Game_2x_27
+    21300048: HLDDZ_BF_Game_2x_28
+    21300050: HLDDZ_BF_Game_2x_30
+    21300052: HLDDZ_BF_Game_2x_31
+    21300054: HLDDZ_BF_Game_2x_33
+    21300056: HLDDZ_BF_Game_2x_34
+    21300058: HLDDZ_BF_Game_2x_35
+    21300060: HLDDZ_BF_Game_2x_36
+    21300062: HLDDZ_BF_Game_2x_37
+    21300064: HLDDZ_BF_Game_2x_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 803
+        width: 427
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 880
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 979
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 980
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 984
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_5
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 980
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_6
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 977
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 977
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_8
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 864
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 908
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 908
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 912
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 935
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 935
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 873
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_16
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 872
+        width: 119
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_18
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 887
+        width: 109
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 804
+        width: 155
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 800
+        width: 153
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 744
+        width: 150
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_24
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 795
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 604
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 690
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 612
+        width: 150
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_28
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 725
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 602
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_31
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 540
+        width: 242
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 527
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 384
+        width: 178
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 486
+        width: 607
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 485
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 486
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HLDDZ_BF_Game_2x_41
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 468
+        width: 235
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
